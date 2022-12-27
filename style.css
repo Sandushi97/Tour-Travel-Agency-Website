@@ -27,7 +27,7 @@ html{
 
 }
 section{
-    padding:2rem 9%;
+    padding:3rem 9%;
 }
 .heading{
     text-align: center;
@@ -276,6 +276,7 @@ body{
     flex-wrap: wrap;
     gap: 1.5rem;
     align-items: center;
+    padding-top: 5rem;
 
   }
   .book .row .image{
@@ -316,6 +317,7 @@ body{
     display: flex;/*to convert in to a flex box*/
     flex-wrap: wrap;
     gap: 2rem;
+    padding-top: 5rem;
 }
 .packages .box-container .box{
     flex: 1 1 30rem;
@@ -357,10 +359,12 @@ body{
     font-size: 1.5rem;
     text-decoration: line-through;
 }
+
 .service .box-container{
     display: flex;
     flex-wrap: wrap;
     gap: 1.5rem;
+    padding-top: 5rem;
 }
 .service .box-container .box{
     flex: 1 1 30rem;
@@ -390,6 +394,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     gap: 1.5rem;
+    padding-top: 5rem;
 }
 .gallery .box-container .box{
     overflow: hidden;
@@ -432,6 +437,7 @@ body{
 }
 .review .review-slider{
     padding-bottom: 2rem;
+    padding-top: 5rem;
 }
 .review .box{
     padding: 2rem;
@@ -507,7 +513,7 @@ body{
 }
 .footer .box-container{
     display: flex;
-    flex-wrap: wrap;
+    
     gap: 1.5rem;
 }
 .footer .box-container .box{
